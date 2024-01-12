@@ -46,3 +46,4 @@ es
 build
 .i18n
 .i18n.*/node_modules/
+/node_modules/
